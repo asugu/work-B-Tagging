@@ -1,0 +1,17 @@
+# ignore all .pkl files
+*.pkl
+
+*.hdf5
+*.json
+*.pth
+
+# ignore all .root files
+*.root
+
+# ignore all figures
+*.png
+*.jpeg
+*.jpg
+
+# ignore pychace
+__pycache__/
