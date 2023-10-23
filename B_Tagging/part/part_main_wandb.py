@@ -53,7 +53,7 @@ n_heads = 8
 n_part_layers = 8
 n_cls_layers = 2
 
-# export WANDB_API_KEY=4d2e2ae64ac09508112e19f547ec4ee56c8df7dc
+# export WANDB_API_KEY= <YOUR KEY HERE>
 # run this line on terminal
 
 wandb.init(project="ParT",
